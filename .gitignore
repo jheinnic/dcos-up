@@ -2,4 +2,6 @@
 *.log
 *.tfstate
 *.backup
+*.plan
 keys/*.pem
+aws_cfg.plan
